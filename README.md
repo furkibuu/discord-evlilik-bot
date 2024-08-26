@@ -14,7 +14,9 @@ npm install
 <p>Bot kullanıma hazır oldu artık istediğiniz gibi kullanabilirsiniz</p>
 <p>Daha Fazlası İçin Beni Takip Edebilirsiniz.</p>
 <h4>Discord Profilim:</h4>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/453534543194882049?hideDiscrim=true)](https://discord.com/users/453534543194882049)
 
 <h4>Github Takip Et:</h4>
+
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furkibuu)
