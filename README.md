@@ -1,9 +1,12 @@
 <h1>Hoş Geldin</h1>
 <h3>Sizlere Özel Olarak Hazırlanan Evlilik Sistemini Kullanmaya Hazırsan Ne Yapman Gerektiğini Açıklıyım</h3>
 <p>İlk olarak modülleri indirin</p>
-```shell 
+
+```bash 
 npm install
+
 ```
+
 
 <p>Sonra config.json taki bilgileri doldurun.</p>
 <img src="https://github.com/user-attachments/assets/c28d2894-31a6-435b-9a65-184c0a07ae47">
